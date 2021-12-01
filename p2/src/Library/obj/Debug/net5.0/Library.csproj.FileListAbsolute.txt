@@ -1,0 +1,12 @@
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\bin\Debug\net5.0\Library.deps.json
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\bin\Debug\net5.0\Library.dll
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\bin\Debug\net5.0\ref\Library.dll
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\bin\Debug\net5.0\Library.pdb
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.dll
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\ref\Library.dll
+c:\Users\sofia\OneDrive - Universidad Católica del Uruguay\1ero2sem\Programacion 2\Defensa2021\PII_2021_2_Defensa_Start\p2\src\Library\obj\Debug\net5.0\Library.pdb
